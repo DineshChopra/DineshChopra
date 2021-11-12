@@ -1,6 +1,6 @@
 ### Hi, My name is Dinesh Chopra
-- 🔭 I’m currently working at Capgemini on computer vision and deep learning
-- 🌱 I’m currently learning MLOps, Deep Learning, Machine Learning, Tensorflow...
+- 🔭 I’m currently working at [Capgemini](https://www.capgemini.com/) on computer vision and deep learning
+- 🌱 I’m currently learning MLOps, Deep Learning, Machine Learning, Tensorflow
 - 👯 I’m always open to meaningful collaborations.
 
 <!--
